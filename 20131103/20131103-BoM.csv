@@ -1,10 +1,11 @@
 Reference,Description,Quantity
-R1,Generic Resistor,1
-R4,Generic Resistor,1
-U4,Molex 0473460001,1
-D1,Generic Zener Diode,1
-D2,Generic Zener Diode,1
-U1,Atmel  ATtiny85/V SOIC,1
-U11,Cree CLVBA-FKA-CAEDH8BBB7A363,1
-R3,Generic Resistor,1
 R2,Generic Resistor,1
+R4,Generic Resistor,1
+C1,Generic Capacitor,1
+D2,Generic Zener Diode,1
+D1,Generic Zener Diode,1
+U1,Atmel  ATtiny85/V SOIC,1
+U2,Cree CLVBA-FKA-CAEDH8BBB7A363,1
+J1,Upverter USB-A-PCB,1
+R3,Generic Resistor,1
+R1,Generic Resistor,1
