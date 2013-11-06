@@ -1,0 +1,30 @@
+Name,Component,Pin
+BLUE,U11,3
+BLUE,U1,7
+RESET,R4,1
+RESET,U1,1
+D-,R3,1
+D-,U4,2
+D-,D1,2
+D-,R1,2
+D+,R2,2
+D+,U4,3
+D+,D2,2
+VCC,U11,2
+VCC,U4,1
+VCC,R4,2
+VCC,R3,2
+VCC,U1,8
+GREEN,U1,6
+GREEN,U11,4
+GND,U1,4
+GND,U4,5
+GND,D1,1
+GND,D2,1
+GND,U4,6
+(R2 - 1) (U1 - 3),R2,1
+(R2 - 1) (U1 - 3),U1,3
+(R1 - 1) (U1 - 2),U1,2
+(R1 - 1) (U1 - 2),R1,1
+RED,U11,1
+RED,U1,5
